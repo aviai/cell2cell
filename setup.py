@@ -101,7 +101,6 @@ setup(name='cell2cell',
                         'tensorly == 0.8.1',
                         'kneed',
                         'scanpy',
-                        'gseapy == 1.0.3'
                         ],
       classifiers=classifiers,
       entry_points={},
